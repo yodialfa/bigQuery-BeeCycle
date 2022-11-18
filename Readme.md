@@ -70,12 +70,6 @@ df
 ```
 - Showing
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
 
 |customer_id |	geography_id	| customer_name	| birthdate |	maritalstatus	| gender	| datefirstpurchase |
 |--- | --- | --- | --- |--- |--- |--- |
