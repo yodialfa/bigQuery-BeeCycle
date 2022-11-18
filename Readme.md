@@ -3,7 +3,7 @@
 
 
 Step by step access SQL BigQuery in Google Colaboratory
-https://colab.research.google.com/github/weiji14/deepbedmap/
+
 
 ## Datasets
 
